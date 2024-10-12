@@ -1,5 +1,5 @@
 # 8bitmap-imageprocessing
-able of Contents
+Table of Contents
 
     Introduction
     Motivation
